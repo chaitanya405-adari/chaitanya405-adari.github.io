@@ -2,5 +2,37 @@
 title: Chaitanya Adari
 #logo: /assets/img/headshot_circle.png
 #description: text below image
+---
+title: "Chaitanya Adari - Data Engineer"
+header:
+  - name: Chaitanya Adari
+  - title: Data Engineer
+contact:
+  - address: "1920 E 2nd st., Edmond, OK 73034"
+  - email: "achaitanya@uco.edu"
+  - phone: "(405) 479-8995"
+  - linkedin: "https://www.linkedin.com/in/adarichaitanya/"
+summary: >
+  With 3 years of experience as a data engineer, I possess expertise in
+  implementing efficient data pipelines using Scala, Pyspark, Apache Spark, and GCP.
+  I am proficient in database technologies, including SQL, NoSQL, and Hadoop, and have
+  worked with data warehousing tools such as Redshift, Big Query, and Snowflake. My focus
+  on delivering high-quality solutions that drive business growth and enable effective
+  decision-making reflects my dedication to data quality and reliability.
+skills:
+  - Apache Spark
+  - Amazon Web Services (AWS)
+  - Data Engineering
+experience:
+  - job_title: Data Engineer
+    company: Sam’s Club, Dallas, Texas
+    date: October 2022 - January 2023
+    responsibilities:
+      - Developed audience builder segment pipelines utilizing Scala and Pyspark to understand and implement business logic.
+      - Employed advanced tools such as Astronomer Airflow, Linux, Bigquery, and Jenkins for efficient workflow orchestration, data warehousing, and server administration.
+  # Add more job experiences here as needed
+footer: "Copyright &copy; 2023 Chaitanya Adari"
+...
+
 show_downloads: true
 theme: jekyll-theme-minimal
